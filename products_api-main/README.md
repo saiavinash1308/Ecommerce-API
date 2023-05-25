@@ -7,7 +7,7 @@ Features:
 - Write-through caching using Redis.
 - CRUD for products with REST-APIs (see API description below).
 
-Backend hosted at: https://products-api-ux8g.onrender.com/
+
 ### **Code Walkthrough:** 
 
 [![Code Walkthrough](https://img.youtube.com/vi/CN4HpTUrV2E/maxresdefault.jpg)](https://youtu.be/CN4HpTUrV2E)
